@@ -7,4 +7,4 @@ Explore the world of tech and innovation with us. Contribute to community develo
 
 🌟 Ready to code, collaborate, and innovate? Dive into our projects and be part of the GDSC Mapúa Manila experience!
 
-GitHub Repository: Mapúa Manila GDSC 🚀🌐
+GitHub Repository: Mapúa University - GDGoC 🚀🌐
