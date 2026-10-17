@@ -1,5 +1,5 @@
-# Google Developer Student Clubs – Mapúa Manila
-🚀 Welcome to the GitHub repository for Google Developer Student Clubs at Mapúa Manila! 🌐 
+# Google Developer Groups on Campus – Mapúa University - Makati
+🚀 Welcome to the GitHub repository for Google Developer Groups on Campus at Mapúa University - Makati! 🌐 
 
 Explore the world of tech and innovation with us. Contribute to community development, collaborate on exciting projects, and attend workshops that elevate your skills. 
 
